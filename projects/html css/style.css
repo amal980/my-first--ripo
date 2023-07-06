@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu-conteiner{
+    background-color: black;
+    padding: 0px;
+    color: wheat;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo-photo{
+    width: 150px;
+}
